@@ -368,7 +368,10 @@ img {
 }
 
 /*=============== MODEL ===============*/
-
+.model__container{
+  padding-top: 2rem;
+  row-gap: 2.5rem;
+}
 
 /*=============== SPONSOR ===============*/
 
